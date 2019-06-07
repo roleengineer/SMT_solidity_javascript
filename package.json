@@ -1,0 +1,11 @@
+{
+  "author": "LeapDAO",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "jsbi": "^2.0.5",
+    "web3-utils": "^1.0.0-beta.34"
+  },
+  "scripts": {
+    "test": "truffle test"
+  }
+}

@@ -1,5 +1,5 @@
-const SparseMerkleTree = artifacts.require("SparseMerkleTree");
+const SMT = artifacts.require("SMT");
 
 module.exports = function(deployer) {
-  deployer.deploy(SparseMerkleTree);
+  deployer.deploy(SMT);
 };
